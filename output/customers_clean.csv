@@ -1,0 +1,5 @@
+id,name,email,age,signup,status,balance,phone
+1,Ada Lovelace,ada@example.com,36,2024-01-05,active,120.5,+372 5555 1234
+2,Alan Turing,alan@example.com,41,2024-02-05,active,0.0,+44 20 7946 0958
+11,Frances Allen,frances@example.com,52,2024-10-09,active,15.75,+1 555 0100
+14,Hedy Lamarr,hedy@example.com,85,2024-12-13,active,1000.0,+43 1 234567

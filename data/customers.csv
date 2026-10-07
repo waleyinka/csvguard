@@ -1,0 +1,16 @@
+id,name,email,age,signup,status,balance,phone
+1,Ada Lovelace,ADA@Example.com,36,2024-01-05,active,120.50,+372 5555 1234
+2,Alan Turing,alan@example.com,41,05.02.2024,active,0,+44 20 7946 0958
+3,Grace Hopper,grace@example,85,2024/03/10,inactive,99.9,
+4,Linus Torvalds,linus@example.com,abc,2024-04-01,active,10,
+5,,margaret@example.com,33,2024-05-12,active,5,
+6,Katherine Johnson,katherine@example.com,17,2024-06-01,active,250,
+2,Alan T. Duplicate,alan2@example.com,41,2024-06-02,active,0,
+7,Tim Berners-Lee,tim@example.com,69,2024-02-30,active,75,
+8,Barbara Liskov,barbara@example.com,84,2024-07-07,paused,40,
+9,Dennis Ritchie,dennis@example.com,70,2024-08-08,inactive,-5,
+10,Ken Thompson,ken@example.com,,2024-09-09,inactive,,call me
+11,Frances Allen,frances@example.com,  52 ,09/10/2024,active,15.75,+1 555 0100
+12,Edsger Dijkstra,edsger@example.com,72,2024-10-11,active,30,,extra
+13,Annie Easley,annie@example.com,60,2024-11-12,ACTIVE,20,
+14,Hedy Lamarr,hedy@example.com,85,2024-12-13,active,1000,+43 1 234567

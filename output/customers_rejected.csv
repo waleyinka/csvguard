@@ -1,0 +1,12 @@
+id,name,email,age,signup,status,balance,phone,errors
+3,Grace Hopper,grace@example,85,2024/03/10,inactive,99.9,,email: invalid email
+4,Linus Torvalds,linus@example.com,abc,2024-04-01,active,10,,age: not an integer
+5,,margaret@example.com,33,2024-05-12,active,5,,name: required value missing
+6,Katherine Johnson,katherine@example.com,17,2024-06-01,active,250,,age: below minimum 18
+2,Alan T. Duplicate,alan2@example.com,41,2024-06-02,active,0,,id: duplicate value
+7,Tim Berners-Lee,tim@example.com,69,2024-02-30,active,75,,signup: invalid date
+8,Barbara Liskov,barbara@example.com,84,2024-07-07,paused,40,,"status: not one of: active, inactive"
+9,Dennis Ritchie,dennis@example.com,70,2024-08-08,inactive,-5,,balance: below minimum 0
+10,Ken Thompson,ken@example.com,,2024-09-09,inactive,,call me,phone: does not match pattern
+12,Edsger Dijkstra,edsger@example.com,72,2024-10-11,active,30,,row: too many fields
+13,Annie Easley,annie@example.com,60,2024-11-12,ACTIVE,20,,"status: not one of: active, inactive"
